@@ -8,7 +8,7 @@
 
 <h4 align="center">Let's build a simple Gen AI Product Recommendation System that can be used for a proof-of-concepts (POC) to recommend products to your customers </h4>
 
-<h4 align="center">This is the companion repo for this blog article . Please refer to it if you would like more information about this process.</h4>
+<h4 align="center">This is the companion repo for this blog article <a herf="https://mfblog.au/p/simple-gen-ai-product-recommendation-system-you-can-poc-quickly/">Simple Gen AI Product Recommendation System you can POC quickly</a>. Please refer to it if you would like more information about this process.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
