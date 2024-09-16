@@ -1,0 +1,40 @@
+---
+name: Product Recommendation
+description: Make product recommendation to target company, based off compaines with similiar profiles.
+version: "1.0"
+authors:
+    - Michael Friedrich
+model:
+    api: chat
+    configuration:
+        type: azure_openai
+        azure_deployment: gpt-4o
+sample:
+    comp_prof_1: {"Company Name":"Vertex Innovations","State":"NSW","Industry":"Fince","Segment":"Banking","Product 1 Name":"","Product 1 Performance":"","Product 2 Name":"Widget X","Product 2 Performance":71.0,"Product 3 Name":"Widget Y","Product 3 Performance":84.0,"Product 4 Name":"Widget Z","Product 4 Performance":94.0,"Product 5 Name":"Gizmo A","Product 5 Performance":41.0,"Product 6 Name":"","Product 6 Performance":"","Product 7 Name":"","Product 7 Performance":"","Product 8 Name":"","Product 8 Performance":""}
+    comp_prof_2: {"Company Name":"Zenith Zephyr","State":"NSW","Industry":"Fince","Segment":"Superannuation","Product 1 Name":"","Product 1 Performance":"","Product 2 Name":"Widget X","Product 2 Performance":84.0,"Product 3 Name":"Widget Y","Product 3 Performance":85.0,"Product 4 Name":"Widget Z","Product 4 Performance":45.0,"Product 5 Name":"","Product 5 Performance":"","Product 6 Name":"Gizmo B","Product 6 Performance":36.0,"Product 7 Name":"Gizmo C","Product 7 Performance":89.0,"Product 8 Name":"Gizmo D","Product 8 Performance":93.0}
+    comp_prof_3: {"Company Name":"TitanCraft Innovations","State":"NSW","Industry":"Fince","Segment":"Superannuation","Product 1 Name":"Widget W","Product 1 Performance":90.0,"Product 2 Name":"","Product 2 Performance":"","Product 3 Name":"Widget Y","Product 3 Performance":35.0,"Product 4 Name":"","Product 4 Performance":"","Product 5 Name":"Gizmo A","Product 5 Performance":79.0,"Product 6 Name":"Gizmo B","Product 6 Performance":83.0,"Product 7 Name":"","Product 7 Performance":"","Product 8 Name":"Gizmo D","Product 8 Performance":93.0}
+    comp_prof_4: {"Company Name":"Stellar Solutions","State":"NSW","Industry":"Technology","Segment":"Services","Product 1 Name":"Widget W","Product 1 Performance":81.0,"Product 2 Name":"","Product 2 Performance":"","Product 3 Name":"Widget Y","Product 3 Performance":57.0,"Product 4 Name":"Widget Z","Product 4 Performance":93.0,"Product 5 Name":"","Product 5 Performance":"","Product 6 Name":"Gizmo B","Product 6 Performance":53.0,"Product 7 Name":"","Product 7 Performance":"","Product 8 Name":"Gizmo D","Product 8 Performance":81.0}
+    target_company_profile: {"Company Name":"Madeup Inc","Aus State":"NSW","Industry":"Finance","Segment":"Banking","Product 1 Name":"Widget W","Product 1 Performance":85,"Product 2 Name":"","Product 2 Performance":"","Product 3 Name":"Widget Y","Product 3 Performance":74}
+---
+system:
+You are a assistant that recommends products to companies.
+You will receive a company profile and you need to recommend the next product that the company should buy.
+Below are some examples of similar companies and their products. Use the below to recommend the next product that the company should buy.
+
+### Example Company 1
+{{comp_prof_1}}
+
+### Example Company 2
+{{comp_prof_2}}
+
+### Example Company 3
+{{comp_prof_3}}
+
+### Example Company 4
+{{comp_prof_4}}
+
+Recommend the next one product only that the company should buy. 
+Then on a separate line write a short concise reason why they should buy the product along with insights contained in the data.
+
+user: 
+{{target_company_profile}}

@@ -1,7 +1,7 @@
-Company Name,State,Industry,Segment,Product 1 Name,Product 1 Performance,Product 2 Name,Product 2 Performance,Product 3 Name,Product 3 Performance,Product 4 Name,Product 4 Performance,Product 5 Name,Product 5 Performance,Product 6 Name,Product 6 Performance,Product 7 Name,Product 7 Performance,Product 8 Name,Product 8 Performance
+CompanyName,State,Industry,Segment,Product 1 Name,Product 1 Performance,Product 2 Name,Product 2 Performance,Product 3 Name,Product 3 Performance,Product 4 Name,Product 4 Performance,Product 5 Name,Product 5 Performance,Product 6 Name,Product 6 Performance,Product 7 Name,Product 7 Performance,Product 8 Name,Product 8 Performance
 Aether Alytics,NSW,Technology,Software,Widget W,87,Widget X,36,,,,,Gizmo A,93,Gizmo B,93,,,,
 Aether Dymics,QLD,Healthcare,Services,,,,,Widget Y,87,,,Gizmo A,40,,,,,Gizmo D,42
-Aether Innovate,VIC,Fince,Banking,Widget W,93,,,,,Widget Z,38,Gizmo A,60,,,,,,
+Aether Innovate,VIC,Finance,Banking,Widget W,93,,,,,Widget Z,38,Gizmo A,60,,,,,,
 Aether Nexus,NSW,Manufacturing,Electronics,,,Widget X,39,Widget Y,52,Widget Z,78,Gizmo A,92,Gizmo B,43,,,,
 AetherCraft Innovations,QLD,Technology,Services,Widget W,55,Widget X,82,Widget Y,57,,,Gizmo A,48,Gizmo B,79,,,,
 Apex Robotics,QLD,Technology,Software,Widget W,79,Widget X,94,,,Widget Z,78,,,,,,,,
@@ -16,14 +16,14 @@ Aurora Labs,WA,Retail,Fashion,Widget W,88,,,,,,,,,Gizmo B,62,,,Gizmo D,59
 Celestial Creations,QLD,Retail,Supermarket,,,,,,,Widget Z,37,Gizmo A,60,,,,,,
 Celestial Innovations,VIC,Retail,Sporting Goods,,,Widget X,66,,,Widget Z,88,Gizmo A,61,,,Gizmo C,67,Gizmo D,47
 Celestial Innovators,NSW,Healthcare,Aged Care,Widget W,74,Widget X,55,Widget Y,85,,,,,Gizmo B,50,,,,
-Celestial Labs,NSW,Fince,Services,Widget W,50,,,,,Widget Z,80,Gizmo A,72,,,Gizmo C,59,,
+Celestial Labs,NSW,Finance,Services,Widget W,50,,,,,Widget Z,80,Gizmo A,72,,,Gizmo C,59,,
 Celestial Networks,VIC,Manufacturing,Electronics,Widget W,47,Widget X,43,Widget Y,94,,,Gizmo A,92,,,,,Gizmo D,60
 Electra Enterprises,WA,Healthcare,Pharmaceuticals,Widget W,64,,,,,Widget Z,56,,,,,,,,
 Electra Innovate,NSW,Manufacturing,Textiles,Widget W,58,Widget X,80,,,,,,,,,,,Gizmo D,72
 Electra Innovators,NSW,Technology,Software,,,,,Widget Y,65,Widget Z,58,,,,,,,Gizmo D,58
 Electrum Innovate,NSW,Manufacturing,Electronics,,,Widget X,64,,,Widget Z,57,,,Gizmo B,51,,,Gizmo D,94
 Electrum Innovations,NSW,Healthcare,Services,,,,,Widget Y,40,Widget Z,36,,,,,Gizmo C,40,Gizmo D,60
-Energy Systems,VIC,Fince,Banking,,,Widget X,71,,,,,,,,,,,Gizmo D,74
+Energy Systems,VIC,Finance,Banking,,,Widget X,71,,,,,,,,,,,Gizmo D,74
 Helios Innovate,NSW,Retail,Fashion,,,Widget X,38,,,,,Gizmo A,88,,,,,,
 Helios Nexus,QLD,Technology,Services,,,,,,,Widget Z,81,Gizmo A,73,Gizmo B,56,Gizmo C,76,Gizmo D,42
 Helix Horizon,NSW,Retail,Supermarket,,,,,Widget Y,94,Widget Z,68,,,Gizmo B,73,Gizmo C,79,Gizmo D,88
@@ -31,15 +31,15 @@ Helix Industries,NSW,Manufacturing,Textiles,,,Widget X,91,,,,,Gizmo A,55,Gizmo B
 Helix Innovations,NSW,Retail,Fashion,Widget W,53,Widget X,35,Widget Y,67,Widget Z,73,,,Gizmo B,65,,,,
 Hyperion Alytics,NSW,Manufacturing,Electronics,Widget W,82,Widget X,87,Widget Y,67,,,Gizmo A,92,,,Gizmo C,84,Gizmo D,46
 Hyperion Holdings,VIC,Manufacturing,Textiles,,,,,,,,,,,,,,,Gizmo D,75
-Ignite Innovators,QLD,Fince,Superannuation,,,Widget X,66,Widget Y,83,,,Gizmo A,56,Gizmo B,53,,,Gizmo D,36
+Ignite Innovators,QLD,Finance,Superannuation,,,Widget X,66,Widget Y,83,,,Gizmo A,56,Gizmo B,53,,,Gizmo D,36
 Ignite Insights,WA,Healthcare,Aged Care,,,,,,,,,Gizmo A,81,Gizmo B,79,,,Gizmo D,52
 Interstellar Solutions,WA,Retail,Fashion,,,,,Widget Y,48,,,,,Gizmo B,39,Gizmo C,83,Gizmo D,49
-Launch Craft,VIC,Fince,Services,Widget W,55,,,Widget Y,60,,,Gizmo A,77,Gizmo B,78,,,,
-Lu Labs,WA,Fince,Banking,Widget W,77,,,Widget Y,38,Widget Z,43,Gizmo A,44,,,Gizmo C,71,,
-LuCraft Technologies,WA,Fince,Services,Widget W,86,,,Widget Y,66,Widget Z,60,Gizmo A,69,,,Gizmo C,77,Gizmo D,79
+Launch Craft,VIC,Finance,Services,Widget W,55,,,Widget Y,60,,,Gizmo A,77,Gizmo B,78,,,,
+Lu Labs,WA,Finance,Banking,Widget W,77,,,Widget Y,38,Widget Z,43,Gizmo A,44,,,Gizmo C,71,,
+LuCraft Technologies,WA,Finance,Services,Widget W,86,,,Widget Y,66,Widget Z,60,Gizmo A,69,,,Gizmo C,77,Gizmo D,79
 LuNova Technologies,QLD,Healthcare,Services,Widget W,80,Widget X,72,Widget Y,85,,,Gizmo A,64,Gizmo B,88,Gizmo C,56,Gizmo D,53
 LuSphere Technologies,NSW,Healthcare,Aged Care,,,Widget X,74,,,,,,,Gizmo B,79,,,Gizmo D,94
-Nebula Innovate,QLD,Fince,Banking,Widget W,55,,,Widget Y,58,Widget Z,36,Gizmo A,78,,,,,Gizmo D,63
+Nebula Innovate,QLD,Finance,Banking,Widget W,55,,,Widget Y,58,Widget Z,36,Gizmo A,78,,,,,Gizmo D,63
 Nebula Innovations,QLD,Technology,Software,,,Widget X,76,Widget Y,49,Widget Z,55,Gizmo A,85,,,,,Gizmo D,69
 Nebula Networks,VIC,Healthcare,Aged Care,,,,,Widget Y,47,Widget Z,51,Gizmo A,53,Gizmo B,37,,,,
 Nebula Nexus,WA,Technology,Services,Widget W,43,,,,,,,Gizmo A,85,,,Gizmo C,35,Gizmo D,44
@@ -49,8 +49,8 @@ NebulaCraft,WA,Technology,Software,,,,,,,Widget Z,59,Gizmo A,95,,,Gizmo C,66,Giz
 NebulaForge,VIC,Manufacturing,Cars,,,,,Widget Y,64,Widget Z,50,,,,,,,Gizmo D,63
 Nebulous Networks,NSW,Technology,Services,,,Widget X,43,,,Widget Z,85,,,Gizmo B,55,Gizmo C,39,Gizmo D,40
 Nexus Dymics,VIC,Technology,Software,Widget W,93,,,Widget Y,89,Widget Z,87,Gizmo A,54,,,,,,
-Nova Innovations,NSW,Fince,Services,,,Widget X,94,,,Widget Z,55,,,Gizmo B,42,,,,
-Nova Nexus,VIC,Fince,Superannuation,Widget W,51,Widget X,57,,,Widget Z,63,,,,,Gizmo C,89,Gizmo D,79
+Nova Innovations,NSW,Finance,Services,,,Widget X,94,,,Widget Z,55,,,Gizmo B,42,,,,
+Nova Nexus,VIC,Finance,Superannuation,Widget W,51,Widget X,57,,,Widget Z,63,,,,,Gizmo C,89,Gizmo D,79
 NovaSphere Labs,VIC,Retail,Sporting Goods,Widget W,47,,,Widget Y,36,,,,,,,Gizmo C,65,,
 NovaWave Technologies,NSW,Retail,Supermarket,Widget W,55,Widget X,69,,,Widget Z,83,Gizmo A,42,,,,,Gizmo D,74
 Orion Innovate,WA,Technology,Services,Widget W,38,,,,,,,,,,,,,,
@@ -65,37 +65,37 @@ Pincle Solutions,WA,Technology,Software,,,,,Widget Y,58,,,Gizmo A,38,,,,,,
 Pincle Innovations,NSW,Retail,Fashion,,,Widget X,67,,,,,,,Gizmo B,67,Gizmo C,49,Gizmo D,94
 PincleSphere,QLD,Manufacturing,Textiles,Widget W,90,Widget X,83,Widget Y,37,Widget Z,84,,,Gizmo B,47,,,Gizmo D,78
 Pulsar Partners,VIC,Manufacturing,Electronics,Widget W,55,,,Widget Y,70,,,Gizmo A,58,,,Gizmo C,36,,
-Quantum Innovations,VIC,Fince,Banking,Widget W,64,Widget X,42,,,,,,,Gizmo B,87,Gizmo C,69,,
+Quantum Innovations,VIC,Finance,Banking,Widget W,64,Widget X,42,,,,,,,Gizmo B,87,Gizmo C,69,,
 Quantum Nexus,VIC,Retail,Supermarket,,,Widget X,74,Widget Y,65,,,Gizmo A,55,,,,,,
 Quantum Quest,WA,Technology,Services,,,Widget X,79,Widget Y,75,,,,,Gizmo B,51,,,,
-Quantum Quotient,NSW,Fince,Services,Widget W,87,,,,,,,Gizmo A,76,Gizmo B,85,,,Gizmo D,63
+Quantum Quotient,NSW,Finance,Services,Widget W,87,,,,,,,Gizmo A,76,Gizmo B,85,,,Gizmo D,63
 QuantumLeap Innovations,VIC,Retail,Fashion,Widget W,75,Widget X,67,Widget Y,91,,,Gizmo A,84,Gizmo B,86,,,Gizmo D,61
 QuantumSphere Technologies,VIC,Healthcare,Aged Care,Widget W,37,,,Widget Y,35,,,,,,,Gizmo C,92,Gizmo D,40
 Queen Innovations,VIC,Manufacturing,Textiles,Widget W,59,,,,,,,Gizmo A,49,Gizmo B,59,Gizmo C,93,Gizmo D,84
-Solaris Innovations,QLD,Fince,Superannuation,,,Widget X,48,Widget Y,64,,,Gizmo A,95,,,Gizmo C,39,,
+Solaris Innovations,QLD,Finance,Superannuation,,,Widget X,48,Widget Y,64,,,Gizmo A,95,,,Gizmo C,39,,
 Solaris Solutions,NSW,Retail,Supermarket,,,Widget X,55,,,,,,,Gizmo B,52,,,Gizmo D,84
-Solaris Synergy,VIC,Fince,Banking,,,Widget X,81,Widget Y,94,Widget Z,81,,,,,,,Gizmo D,76
+Solaris Synergy,VIC,Finance,Banking,,,Widget X,81,Widget Y,94,Widget Z,81,,,,,,,Gizmo D,76
 Stellar Innovations,VIC,Manufacturing,Textiles,Widget W,91,,,Widget Y,72,Widget Z,40,,,,,Gizmo C,46,,
 Stellar Solutions,NSW,Technology,Services,Widget W,81,,,Widget Y,57,Widget Z,93,,,Gizmo B,53,,,Gizmo D,81
 Stellar Strategies,VIC,Healthcare,Pharmaceuticals,Widget W,76,Widget X,92,,,,,,,Gizmo B,71,,,Gizmo D,43
-Stellar Systems,NSW,Fince,Services,,,,,Widget Y,83,,,,,,,Gizmo C,89,Gizmo D,83
+Stellar Systems,NSW,Finance,Services,,,,,Widget Y,83,,,,,,,Gizmo C,89,Gizmo D,83
 StellarWave Innovations,VIC,Manufacturing,Electronics,Widget W,36,,,Widget Y,51,Widget Z,84,,,Gizmo B,73,Gizmo C,43,,
 Synergy Innovate,QLD,Technology,Software,,,,,,,Widget Z,79,Gizmo A,72,,,Gizmo C,37,,
 Synergy Solutions,VIC,Retail,Fashion,Widget W,51,Widget X,92,Widget Y,74,Widget Z,87,,,,,,,,
 Synergy Systems,NSW,Technology,Software,,,,,,,,,Gizmo A,65,,,Gizmo C,58,Gizmo D,70
 TerraCraft Solutions,WA,Technology,Services,Widget W,86,Widget X,58,Widget Y,83,,,,,Gizmo B,67,Gizmo C,68,Gizmo D,58
 TerraForge Enterprises,NSW,Technology,Software,,,Widget X,35,Widget Y,75,Widget Z,53,,,,,,,Gizmo D,81
-TerraNova Solutions,QLD,Fince,Banking,Widget W,60,,,,,Widget Z,72,Gizmo A,83,Gizmo B,90,Gizmo C,58,Gizmo D,65
+TerraNova Solutions,QLD,Finance,Banking,Widget W,60,,,,,Widget Z,72,Gizmo A,83,Gizmo B,90,Gizmo C,58,Gizmo D,65
 TerraWave Solutions,NSW,Retail,Fashion,Widget W,68,Widget X,61,,,Widget Z,49,Gizmo A,37,,,Gizmo C,36,,
 Titan Innovate,NSW,Manufacturing,Cars,,,,,Widget Y,65,,,,,,,Gizmo C,72,Gizmo D,84
 Titan Innovations,VIC,Technology,Services,Widget W,56,Widget X,42,Widget Y,73,Widget Z,40,,,Gizmo B,75,,,,
 Titan Nexus,NSW,Technology,Software,,,,,,,Widget Z,63,Gizmo A,36,,,Gizmo C,42,Gizmo D,55
 Titan Technologies,NSW,Healthcare,Services,,,Widget X,82,,,,,Gizmo A,88,Gizmo B,67,Gizmo C,59,Gizmo D,63
-Titan Ventures,QLD,Fince,Services,,,,,Widget Y,79,Widget Z,69,Gizmo A,72,Gizmo B,46,,,Gizmo D,44
-TitanCraft Innovations,NSW,Fince,Superannuation,Widget W,90,,,Widget Y,35,,,Gizmo A,79,Gizmo B,83,,,Gizmo D,93
-Vertex Innovations,NSW,Fince,Banking,,,Widget X,71,Widget Y,84,Widget Z,94,Gizmo A,41,,,,,,
+Titan Ventures,QLD,Finance,Services,,,,,Widget Y,79,Widget Z,69,Gizmo A,72,Gizmo B,46,,,Gizmo D,44
+TitanCraft Innovations,NSW,Finance,Superannuation,Widget W,90,,,Widget Y,35,,,Gizmo A,79,Gizmo B,83,,,Gizmo D,93
+Vertex Innovations,NSW,Finance,Banking,,,Widget X,71,Widget Y,84,Widget Z,94,Gizmo A,41,,,,,,
 Vertex Ventures,VIC,Retail,Sporting Goods,,,Widget X,55,Widget Y,90,,,,,Gizmo B,62,,,Gizmo D,80
 Zenith Dymics,QLD,Healthcare,Aged Care,,,,,,,Widget Z,71,,,Gizmo B,90,Gizmo C,53,Gizmo D,93
 Zenith Innovations,VIC,Manufacturing,Electronics,Widget W,78,Widget X,68,Widget Y,41,Widget Z,72,Gizmo A,88,Gizmo B,41,Gizmo C,82,,
 Zenith Ventures,NSW,Retail,Supermarket,,,Widget X,72,Widget Y,69,Widget Z,64,,,Gizmo B,50,,,,
-Zenith Zephyr,NSW,Fince,Superannuation,,,Widget X,84,Widget Y,85,Widget Z,45,,,Gizmo B,36,Gizmo C,89,Gizmo D,93
+Zenith Zephyr,NSW,Finance,Superannuation,,,Widget X,84,Widget Y,85,Widget Z,45,,,Gizmo B,36,Gizmo C,89,Gizmo D,93
